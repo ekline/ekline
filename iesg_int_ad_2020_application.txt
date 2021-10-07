@@ -1,0 +1,335 @@
+IESG
+Questionnaire for the Area Director position (not IETF Chair)
+
+==================================================================
+
+Please return to nomcom-19@ietf.org no later than October 15,
+2019, 23:59 UTC.
+
+This questionnaire is intended to provide the Nominating Committee
+with information to help select among nominees for the IETF Trust
+
+The datatracker tools work best if you submit this in 77-column
+pre-wrapped ASCII, a la text/plain.
+
+------------------------------------------------------------------
+
+CONFIDENTIALITY: NOTE that the contents of this questionnaire will
+remain absolutely confidential to the nominations committee
+process. For the IESG, this means that it will be shared with the
+NomCom and with the confirming body, which is the currently
+sitting IAB.
+
+IMPORTANT: There is a section of this questionnaire labeled NOT
+FOR CONFIRMING BODY. You may elect to write some information that
+will not be shared with the confirming body. It will be kept
+absolutely confidential by the nominating committee.
+
+When multiple questions are asked within a numbered block, you may
+wish to provide a single answer that responds to that range of
+questions.
+
+Thank you!
+
+==================================================================
+
+NOTE: Before providing answers to this questionnaire, please take
+into consideration the desired expertise for the IESG Area
+Director position you are nominated for. The expertise page for
+the position can be found by clicking on the relevant tab on the
+NomCom 2019 expertise page found at the following url: https://
+datatracker.ietf.org/nomcom/2019/expertise/
+
+==================================================================
+
+1. Name and Contact Info
+Name:
+Affiliation:
+Consultants/Contractors, please provide the affiliation(s)
+of your
+primary customer(s)
+Email(s):
+Phone(s):
+Home Timezone:
+URL for resume/linkedin/etc:
+You may link to your resume, or include it below the text of
+the form.
+Do not use attachments to your email - they may be lost!"
+
+    [1] as follows:
+
+    Name: Erik Kline
+    Affiliation: Loon LLc
+    Email(s): ...
+    Phone(s): ...
+    Home Timezone: US/Pacific
+    URL for resume/linkedin/etc: none
+
+==================================================================
+
+2. Experience
+
+Please explain your current experience related to the job
+description you are nominated for. Please cover relevant
+management training or experience. (Including: soft skills,
+management training, conflict resolution, leadership,
+inter-cultural, and risk management).
+
+    [2] I would summarize my experience in technical and non-technical
+    categories as follows.
+
+    [ Technical ]
+
+    - I've been a regular IETF participant since first attending IETF 70 in
+      December 2007 (originally in order to participate in 6man).
+
+    - I have co-authored one published RFC (RFC 6564), am co-author on
+      draft-ietf-capport-rfc7710bis (on track for eventual publication),
+      and have been cited in the Acknowledgments section of, at most, about
+      a dozen others.
+
+    - I have not insignificant experience implementing several key IETF
+      Internet Area technologies, including:
+
+        - From 2007 through 2014, I wrote much of the IPv6 support in
+          Google infrastructure.  This included IPv6 in core C++ and Java
+          networking libraries, the HTTP frontend, the YouTube streamer,
+          authoritative DNS, Google's NTP service, and the IPv6 serving and
+          recursing support in the Public DNS service. I also wrote the
+          DNS64 implementation in the Google Public DNS service.  When the
+          Google datacenter wanted to start moving to IPv6-only I helped
+          design and develop the first proof-of-concept for /64 to the host
+          with per-process IP addressing and ILNP-inspired mobility (this
+          work was advanced by others [Lorenzo Colitti, Tom Herbert,
+          et al.] and became ILA).
+
+        - During this time I also co-authored the design, implementation,
+          and paper summarizing Google's IPv6 measurements, which still
+          powers google.com/ipv6 public statistics (see the Scholar page:
+
+            https://scholar.google.com/citations?user=1yKwJWAAAAAJ
+
+          for links to the measurements paper).
+
+        - From 2014 to 2018 as a member of this Android Core Networking
+          team I implemented things IPv6 tethering support (using RFC 7278,
+          a.k.a. 64share), and a dynamic RA daemon that responds to changes
+          in upstream connectivity, deprecating prefixes appropriately).  I
+          was involved in the Android PVD architecture implementation
+          (including a handful of Linux kernel fixes to support this),
+          handled some minor NTP support issues, wrote some ARP/ND -driven
+          network measurement and monitoring, and was also the tech lead
+          for the "Private DNS" project, adding DNS-over-TLS (RFC 7858)
+          support into the core platform:
+
+            https://android-developers.googleblog.com/2018/04/dns-over-tls-support-in-android-p.html
+
+    - I am co-chair of ART area's capport working group (since early 2017)
+      and a Gen-ART reviewer (since early 2018).
+
+    [ Non-technical ]
+
+    - I have been a manager of technical teams on three separate occasions.
+      There was some training at the time, but the primary focus was on the
+      legal implications and responsibilities and not on soft skills of any
+      real value, regrettably.
+
+      Each managerial experience eventually involved some hard
+      conversations with employees including two dismissals and one
+      investigation for possible theft of company property.
+
+      As such, for the past twenty years I've focused on individual
+      technical contribution, often in a role providing technical
+      leadership and architectural vision.
+
+    - I have collaborated with numerous teams on technical objectives,
+      both within Alphabet and outside it.
+
+      Most memorable for me was helping found and participating in the
+      organization of the ISOC-led World IPv6 Day (2011) and World IPv6
+      Launch (2012) events. Both involved coordinating internal legal and
+      technical approval and interactions with other like-minded folks
+      doing the same coordination at Yahoo, Facebook, Akamai, Cisco,
+      Microsoft, and others.
+
+==================================================================
+
+3. IETF
+
+How can the value of the IETF to internal and broader technical
+community be improved (please comment on culture, operations, or
+other topics)?
+
+    [3] The IETF has some of the most easily searchable and navigable
+    documents of any SDO. There is a plethora of text on technical,
+    cultural, and even legal matters that is freely available to read with
+    any number of simple tools -- all easily indexed, no subscription or
+    membership required, nor fees of any kind other than basic Internet
+    access.
+
+    However, one thing that can be quite daunting for anyone trying to
+    familiarize themselves with an area is often the absence of a framework
+    for organizing all the documents conceptually.  The publication of the
+    Tao as a web page provides a nice, coherent introduction to numerous
+    RFCs about the IETF itself.  Similarly, the effort that went in to
+    squashing all the RFCs, updates, and errata into RFC 8200 (for the
+    purposes of publishing a standards document) did a nice job of forming
+    a single entry point for someone new to and interested in the technical
+    details of IPv6.  As long as it doesn't negatively impact other work
+    or the community itself to do, I'm generally in favor this kind of
+    thing (consider, for example, how someone interested in writing a DNS
+    implementation from scratch -- for whatever reason -- would go about
+    wading through all the DNS RFCs to figure out how best to proceed).
+
+    To be more inclusive of newcomers requires more than these kinds of
+    technological assistance.  Inclusivity improves both by inviting others
+    into your community and meeting others in their communities.  The BoF
+    process and, even better, the ${AREA}-dispatch work groups are good
+    fora into which to invite folks who want to figure out how to solve a
+    particular problem and perhaps thereafter join the larger community.
+    Wider circulation of these and related opportunities might be worth
+    pursuing.
+
+    As for meeting others in their communities, I think there should be
+    solid argument to be made for bringing work to the IETF.  Its not
+    uncommon to overhear someone decrying the speed of the process or
+    bemoaning anticipated obstructionism.  Though the process can be
+    difficult, the value of scrutiny by the diversity of implementors and
+    operators is something to uphold.  The articulation of how any why
+    work brought to the IETF became better as a consequence (think: QUIC)
+    is an important message to bring other communities in order to keep new
+    ideas and new people flowing into the IETF community.
+
+=============================================================
+
+4. IESG
+
+Please explain your understanding and ability to support the work
+load associated with the position. Explain the value you will
+bring to the role and how it will help enhance the mission of the
+IETF. Please provide details on the area you were nominated and
+identify areas where improvement is needed.
+
+    [4] RFC 3710 sets out a charter for the IETF, describing numerous
+    functions including working group life-cycle management, IETF document
+    review and handling for both working group and non-working-group
+    documents, as well as other process management and appeals/conflict
+    resolution responsibilities.  Having sat in on some public IESG WebEx
+    meetings, a good amount of time is spent discussing document readiness
+    and concerns.  I suspect the confidential meetings that follow are
+    considerably more focused on candid discussion of contentious issues.
+
+    I suspect the ability to read and digest (at varying levels of detail)
+    a substantial quantity of documents is required.  Coordinating with the
+    relevant INT area directorate to share some of this load will no doubt
+    be critical.  It's been my pleasure to do Gen-ART reviews of several
+    documents from across many of the IETF areas.  And of course detailed
+    review of INT area issues in non-INT-area documents is essential for
+    fulfilling the requisite consultative review role.
+
+    I have a fairly detailed understanding of some INT area topics, and a
+    broad through cursory understanding of many others.  I always aim to
+    read and assimilate the fundamental intent of a document into a
+    systemic whole; in fact, broadening and deepening a systems-level view
+    of the layers of the Internet is at the core of what keeps me engaged
+    in the IETF.  It's precisely this energy and perspective that I hope to
+    bring to the role.
+
+    Furthermore, I try to carry the perspectives of an operating system
+    implementor (Android), a content provider (Google), and a (nascent)
+    network operator (Loon -- yes, really!) into every technical context.
+
+=============================================================
+
+5. Cross IETF Collaboration
+
+Explain how your role will fit into the IETF as a whole and how
+you will add value.
+
+    [5] INT area directors are responsible for working groups that address
+    a wide range of technical topics at Layer 3 and, colloquially, "Layer 3
+    adjacent".  Finding experts for review of documents that come from
+    within the INT area and elsewhere is paramount, as is serving as one of
+    the reviewers.  Additionally, being open and available for consultation
+    on the wide range of INT area topics is a critical role (certainly I've
+    bent Suresh's ear on no end of issues).
+
+    I've had some direct implementation experience with several INT area
+    technologies including IPv4, IPv6, DNS, DHCP, and NTP.  This has been
+    helpful in work in capport work, understanding how client operating
+    systems attach to a network and receive provisioning information.
+
+    My experience with deploying IPv6 into production at Google has
+    informed my participation and contributions in v6ops.  Having helped
+    write the original IPv6 geolocation pipeline at Google (including
+    figuring how to bootstrap geolocation information when there were very
+    few IPv6 clients on the Internet), I was able to capture the team's
+    work in draft-google-self-published-geofeeds (this document is still
+    progressing on the Independent Stream Editor's publication path).
+
+=============================================================
+
+6. Mentoring and Participation
+
+How would you mentor the next group of IETF leaders? How would you
+help increase and/or improve participation in the IETF as a whole?
+
+    [6] On an individual level, mentoring begins with respectfully helping
+    someone understand:
+
+        - the Tao of the IETF (its importance matches its length),
+
+        - the values of the IETF (per the RFC 3935 mission statement, the
+          IETF is not value-neutral), which should include mention of
+          draft-iab-for-the-users (if published), and
+
+        - the architectural principles of the Internet (cf. RFC 1958).
+
+    Ideally, I feel those who would be leaders are those with actual
+    implementation experience.  (Operating a network of moderate complexity
+    is important, but not necessarily sufficient for INT area.)  The
+    hackathon is a great opportunity for someone to get a start, and there
+    are generally several opportunities to contribute to open source
+    projects.  All this should be encouraged, and it seems natural to look
+    to these groups for emergent leaders.
+
+    Lastly, I think that leaders in the IETF need a healthy respect for the
+    scope and impact of the work, and a healthy skepticism of unproven
+    limitations.  I'm not sure how to engender this in others, but there
+    can be no doubt that is begins by modeling it.
+
+=============================================================
+
+7. Additional Information
+
+Is there any information you wish to share with the Nomination
+committee and the confirming body (IAB)? Please provide that
+feedback in this section.
+
+    [7] All good.
+
+=============================================================
+
+NOT FOR CONFIRMING BODY
+
+The answer to the following question will not be shared with the
+confirming body (the IAB). This section may include personal
+identifying information.
+
+8. Additional Information - For NomCom Only
+
+Is there any information you wish to share with the Nominating
+Committee that you do not wish to have shared with the IAB? This
+may include additional details about employment or work time
+issues. It may include opinions or comments about individuals on
+the various bodies involved in leading the IETF activities. It may
+include opinions about the direction of working groups, areas, or
+leadership bodies. These comments may also include elaborations on
+any of your above answers, if there are further aspects you would
+like to mention that you do not want shared with the IAB.
+
+    [8] Have a pleasant day.
+
+END OF SECTION: NOT FOR CONFIRMING BODY
+
+=============================================================
