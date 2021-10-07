@@ -1,0 +1,151 @@
+IESG
+Questionnaire for IESG Nominees
+
+==================================================================
+
+Please return to nomcom-2021@ietf.org no later than October 18,
+2021, 23:59 UTC.
+
+This questionnaire is intended to provide the Nominating Committee
+with information to help select among nominees for the IESG
+
+We ask that you provide us with a response in English using a plain
+text format (Unicode is OK) wrapped to 77 columns.
+
+------------------------------------------------------------------
+
+CONFIDENTIALITY: NOTE that the contents of this questionnaire will
+remain absolutely confidential to the Nominating Committee (NomCom)
+process. For the IESG, this means that it will be shared with the
+NomCom and with the confirming body, which is the currently
+sitting IAB.
+
+IMPORTANT: There is a section of this questionnaire labeled NOT
+FOR CONFIRMING BODY. You may elect to write some information that
+will not be shared with the confirming body. It will be kept
+absolutely confidential by the Nominating Committee.
+
+When multiple questions are asked within a numbered block, you may
+wish to provide a single answer that responds to that range of
+questions.
+
+Thank you!
+
+==================================================================
+
+NOTE: Before providing answers to this questionnaire, please take
+into consideration the desired expertise for the IESG Area
+Director position you are nominated for. The expertise page for
+the position can be found by clicking on the relevant tab on the
+NomCom 2021 expertise page found at the following url:
+https://datatracker.ietf.org/nomcom/2021/expertise/
+and clicking on the appropriate tab.
+
+==================================================================
+
+1. Name and Contact Info
+
+Name:
+Affiliation:
+Consultants/Contractors, please provide the affiliation(s)
+of your
+primary customer(s)
+Email(s):
+Phone(s):
+Home Timezone:
+URL for resume/linkedin/etc:
+You may link to your resume, or include it below the text of
+the form.
+
+Do not use attachments to your email - they may be lost!"
+
+[1] As follows:
+
+Name: Erik Kline
+Affiliation: Google
+Email(s): ...
+Phone(s): ...
+Home Timezone: US/Pacific
+URL for resume/linkedin/etc: https://datatracker.ietf.org/person/Erik%20Kline
+
+==================================================================
+
+2. Experience
+
+Please explain your current experience related to the job
+description you are nominated for. Please cover relevant
+management training and experience. (Including: soft skills,
+conflict resolution, leadership, and inter-cultural interactions).
+Describe your experience working in diverse environments.
+
+==================================================================
+
+3. Participation, Diversity, and Mentoring
+
+What would you do to improve participation in the IETF? What would
+you do to improve the diversity of participation? What would you do to
+help prepare the next group of leaders in the IETF?
+
+==================================================================
+
+4. IETF
+
+How can the value of the IETF to internal and broader technical
+community be improved (please comment on culture, operations, or
+other topics)?
+
+=============================================================
+
+5. IESG
+
+Please explain your understanding and ability to support the work
+load associated with the position. Explain the value you will
+bring to the role and how it will help enhance the mission of the
+IETF. Explain your view of the purpose of IESG review and how
+you intend to approach it. How would you plan to manage the
+working groups in your nominated area?
+Please provide an assessment of the area for which you were
+nominated.
+
+=============================================================
+
+6. Cross-IETF Collaboration
+
+Explain how your role will fit into the IETF as a whole and how
+you will add value.
+
+=============================================================
+
+7. Additional Information
+
+Is there any information you wish to share with the Nominating
+Committee and the confirming body (IAB)? Please provide that
+feedback in this section.
+
+[7] All good.
+
+=============================================================
+
+NOT FOR CONFIRMING BODY
+
+The answer to the following question will not be shared with the
+confirming body (the IAB). This section may include personal
+identifying information.
+
+8. Additional Information - For NomCom Only
+
+Is there any information you wish to share with the Nominating
+Committee that you do not wish to have shared with the IAB? This
+may include additional details about employment or work time
+issues. It may include opinions or comments about individuals on
+the various bodies involved in leading the IETF activities. It may
+include opinions about the direction of working groups, areas, or
+leadership bodies. These comments may also include elaborations on
+any of your above answers, if there are further aspects you would
+like to mention that you do not want shared with the IAB.
+
+[8] Have a pleasant day.
+
+END OF SECTION: NOT FOR CONFIRMING BODY
+
+=============================================================

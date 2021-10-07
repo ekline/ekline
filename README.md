@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently: IETF IESG INT AD (application [2020](./iesg_int_ad_2020_application.txt))
+Links:
+  * [IETF profile](https://datatracker.ietf.org/person/Erik%20Kline)
+  * [Google Research profile](https://research.google/people/ErikKline/)
+
+Currently:
+  * Google, 2004-present
+  * IETF IESG INT AD (applications: [2020](./ietf_iesg_int_ad_2020_application.txt), [2022](./ietf_iesg_int_ad_2022_application.txt))
