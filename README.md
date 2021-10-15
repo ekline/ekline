@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Links:
-  * [IETF profile](https://datatracker.ietf.org/person/Erik%20Kline)
-  * [Google Research profile](https://research.google/people/ErikKline/)
+[IETF](https://datatracker.ietf.org/person/Erik%20Kline) |
+[research.google](https://research.google/people/ErikKline/)
 
 Currently:
   * Google, 2004-present
