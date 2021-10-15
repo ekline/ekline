@@ -1,4 +1,4 @@
-### Hi 🌱
+### 🌱 こんにちは
 
 <!--
 **ekline/ekline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [IETF](https://datatracker.ietf.org/person/Erik%20Kline) |
-[research.google](https://research.google/people/ErikKline/)
+[research.google](https://research.google/people/ErikKline/) |
+[LinkedIn](https://www.linkedin.com/in/erikkline/)
 
 Currently:
   * Google, 2004-present
