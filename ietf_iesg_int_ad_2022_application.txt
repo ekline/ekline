@@ -88,7 +88,7 @@ categories as follows.
 
 - I have co-authored only two published IETF RFCs (RFCs 6564, 8910), one
   Independent Stream document (RFC 8805), and have been cited in the
-  Acknowledgments section of, at most, about a dozen others.
+  Acknowledgements section of, at most, about a dozen others.
 
 - I was co-chair of ART area's capport working group from early 2017 until
   its closing in 2020 and was a Gen-ART reviewer from early 2018 until
@@ -165,8 +165,8 @@ categories as follows.
 
 - Most directly relevant to the role of INT AD would be, I suppose, my
   ongoing experience as INT AD.  There have been, and continue to be,
-  some contentious issues to be addressed.  Often times there's much more
-  to the story than want appears in the email archive.  My preferred
+  some contentious issues to be addressed.  Oftentimes there's much more
+  to the story than what appears in the email archive.  My preferred
   approach may be a little exhausting for some, but I do best when I can
   have 1:1 or small group video chats to hear out everyone's perspectives.
   These discussions usually start with introductory questions and lots of
@@ -265,7 +265,7 @@ bemoaning anticipated obstructionism.  Though the process can be
 difficult, the value of scrutiny by the diversity of implementers and
 operators is something to uphold.  The articulation of how and why
 work brought to the IETF became better as a consequence (think: QUIC)
-is an important message to bring other communities in order to keep new
+is an important message to bring to other communities in order to keep new
 ideas and new people flowing into the IETF community.
 
 =============================================================
