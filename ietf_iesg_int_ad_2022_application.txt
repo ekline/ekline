@@ -92,9 +92,9 @@ categories as follows.
 
 - I was co-chair of ART area's capport working group from early 2017 until
   its closing in 2020 and was a Gen-ART reviewer from early 2018 until
-  the beginning service as an INT AD in March 2020.
+  the beginning of service as an INT AD in March 2020.
 
-- I have not insignificant experience implementing several key IETF
+- I have a moderate amount of experience implementing several key IETF
   Internet Area technologies, including:
 
     - From 2007 through 2014, I wrote much of the IPv6 support in
@@ -118,7 +118,7 @@ categories as follows.
       for links to the measurements paper).
 
     - From 2014 to 2018 as a member of this Android Core Networking
-      team I implemented things IPv6 tethering support (using RFC 7278,
+      team I implemented things like IPv6 tethering support (using RFC 7278,
       a.k.a. 64share), and a dynamic RA daemon that responds to changes
       in upstream connectivity, deprecating prefixes appropriately).  I
       was involved in the Android PVD architecture implementation
@@ -166,10 +166,10 @@ categories as follows.
 - Most directly relevant to the role of INT AD would be, I suppose, my
   ongoing experience as INT AD.  There have been, and continue to be,
   some contentious issues to be addressed.  Often times there's much more
-  to the story that want appears in the email archive.  My preferred
+  to the story than want appears in the email archive.  My preferred
   approach may be a little exhausting for some, but I do best when I can
   have 1:1 or small group video chats to hear out everyone's perspectives.
-  These discussions usually start with my asking questions and lots of
+  These discussions usually start with introductory questions and lots of
   listening, but I'm never finished until I've engaged in some Socratic
   questioning.  I usually try to ask how folks respond to the various
   (counter-)arguments that have been raised, and we often get into some
@@ -210,16 +210,16 @@ someone understand:
 
 Ideally, I feel those who would be leaders are those with actual
 implementation experience.  (Operating a network of moderate complexity
-is important, but not necessarily sufficient for INT area.)  The
+is important, but not necessarily sufficient for the INT area.)  The
 hackathon is a great opportunity for someone to get a start, and there
 are generally several opportunities to contribute to open source
 projects.  All this should be encouraged, and it seems natural to look
 to these groups for emergent leaders.
 
 Lastly, I think that leaders in the IETF need a healthy respect for the
-scope and impact of the work, and a healthy skepticism of unproven
-limitations.  I'm not sure how to engender this in others, but there
-can be no doubt that is begins by modeling it.
+scope and impact of the work, and the capacity to listen, learn, and update
+their priors.  I'm not sure how to engender this in others, but there
+can be no doubt that it begins by modeling it.
 
 ==================================================================
 
@@ -231,10 +231,9 @@ other topics)?
 
 [4] The IETF has some of the most easily searchable and navigable
 documents of any SDO. There is a plethora of text on technical,
-cultural, and even legal matters that is freely available to read with
+cultural, and organizational matters that is freely available to read with
 any number of simple tools -- all easily indexed, no subscription or
-membership required, nor fees of any kind other than basic Internet
-access.
+membership required nor fees of any kind, just basic Internet access.
 
 However, one thing that can be quite daunting for anyone trying to
 familiarize themselves with an area is often the absence of a framework
@@ -256,14 +255,14 @@ into your community and meeting others in their communities.  The BoF
 process and, even better, the ${AREA}-dispatch work groups are good
 fora into which to invite folks who want to figure out how to solve a
 particular problem and perhaps thereafter join the larger community.
-Wider circulation of these and related opportunities might be worth
-pursuing.
+Wider circulation of these and related opportunities is great, and I
+frequently share links to YouTube recordings.
 
 As for meeting others in their communities, I think it is incumbent upon
 us to articulate a solid argument for bringing work to the IETF.  It's not
 uncommon to overhear someone decrying the lack of speed of the process or
 bemoaning anticipated obstructionism.  Though the process can be
-difficult, the value of scrutiny by the diversity of implementors and
+difficult, the value of scrutiny by the diversity of implementers and
 operators is something to uphold.  The articulation of how and why
 work brought to the IETF became better as a consequence (think: QUIC)
 is an important message to bring other communities in order to keep new
@@ -291,13 +290,13 @@ resolution responsibilities.
 Having sat on the IESG for one term so far one very important function
 is to serve as insurance that at least a minimum number of IETF community
 members have read any given document.  Having a fair understanding of INT
-area topics, and a broad through cursory understanding of others, I always
+area topics, and a broad though cursory understanding of others, I always
 aim to read and assimilate the fundamental intent of each document.
 
 The job also entails coordinating with other ADs on handling appeals and
 discussing any cross-area issues that might need AD resolution or, at a
 minimum, careful observation and perhaps a word or two of guidance.  In
-this regard, I have it useful to work via shared Google documents that
+this regard, I have found it useful to work via shared Google documents that
 can be edited by many people and link to any and all supporting (or
 contradictory) text.
 
@@ -344,7 +343,7 @@ might be organized into a BoF.  Similarly, some long-standing issues may
 evolve to a point where they can be either redressed or at least sufficiently
 well articulated in a document.  Discussing and finding authors within the
 IETF (or soliciting others to join) for such efforts can be a useful function
-of the role.
+of the role as well.
 
 =============================================================
 
