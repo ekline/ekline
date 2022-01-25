@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 Currently:
   * Google, 2004-present
-  * IETF IESG INT AD (applications: [2020](./ietf_iesg_int_ad_2020_application.txt), [2022](./ietf_iesg_int_ad_2022_application.txt))
+  * IETF Internet Area Director (IESG, INT AD)
+    * 2020-2022 [application](./ietf_iesg_int_ad_2020_application.txt) | [announcement](https://mailarchive.ietf.org/arch/msg/ietf/9fub54oprwn0Pb6qFRbIJevgo_E/)
+    * 2022-2024 [application](./ietf_iesg_int_ad_2022_application.txt) | [announcement](https://mailarchive.ietf.org/arch/msg/ietf/O7f082ROaB2DudULnEzVMuUbbEY/)
