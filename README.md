@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [IETF](https://datatracker.ietf.org/person/Erik%20Kline) |
-[research.google](https://research.google/people/ErikKline/) |
 [ORCID](https://orcid.org/0000-0003-0020-0056) |
 [LinkedIn](https://www.linkedin.com/in/erikkline/) |
 <a rel="me" href="https://hachyderm.io/@ek">Mastodon</a>
