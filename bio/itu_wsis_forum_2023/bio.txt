@@ -1,0 +1,18 @@
+Erik Kline
+IETF Internet Area Director
+Aalyria
+
+Erik Kline is a Network Architecture and Software Engineer at Aalyria
+Technologies in California on the Spacetime Temporospatial Software Defined
+Networking team (Spacetime TS-SDN).  He also serves, since 2020, as one of
+the IETF Internet Area Directors where he's the responsible AD for several
+working groups including: IPv6 (6MAN), Network Time Protocol (NTP), and
+Distributed Mobility Management (DMM).
+
+After interning at the NASA Ames Research Center (Moffett Field), he earned a
+Science Bachelors in Aeronautics and Astronautics from MIT.  Prior to Aalyria
+he worked for Google (Alphabet) for almost 18 years where he was one of the
+software engineers responsible for IPv6 development and deployment, sharing
+the first ISOC Itojun Service Award for contributions to IPv6.  He also
+worked on the Android networking stack while in Tokyo and, upon returning to
+the US, had the privilege to work on the Temporospatial SDN team at Loon
