@@ -15,4 +15,4 @@ he worked for Google (Alphabet) for almost 18 years where he was one of the
 software engineers responsible for IPv6 development and deployment, sharing
 the first ISOC Itojun Service Award for contributions to IPv6.  He also
 worked on the Android networking stack while in Tokyo and, upon returning to
-the US, had the privilege to work on the Temporospatial SDN team at Loon
+the US, had the privilege to work on the Temporospatial SDN team at Loon.
