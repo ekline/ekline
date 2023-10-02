@@ -1,0 +1,224 @@
+Please return to nomcom-2023@ietf.org no later than 2023-10-20.
+
+This questionnaire is intended to provide the Nominating Committee (NomCom)
+with information to help select among nominees for the position of
+INT Area Director.
+
+FORMAT: We ask that you provide us with a response in English using a plain
+text format (Unicode is OK) wrapped to 77 columns. Please avoid email
+attachments; our system doesn't handle these well.
+
+CONFIDENTIALITY: The contents of this questionnaire will remain absolutely
+confidential to the NomCom and the confirming body (the IAB).
+If you are chosen for a position, the confirming body may see your responses.
+The section of this questionnaire labeled NOT FOR CONFIRMING BODY will not be
+provided to the confirming body; it will only be shared with the NomCom.
+
+POSITION: In answering, please consider the desired expertise for the
+INT Area Director position that can be found at the following url:
+https://datatracker.ietf.org/nomcom/2023/expertise/.
+
+Thank you!
+
+==================================================================
+
+Name and Contact Info
+
+Name: Erik Kline
+Preferred pronouns: he/him
+Affiliation: Aalyria Technologies, Inc
+(Consultants/Contractors, please provide the affiliation(s)
+of your primary customer(s))
+Email(s): ...
+Phone(s): ...
+Home Timezone: US/Pacific
+URL for resume/LinkedIn/etc:
+(You may link to your resume, or include it below.)
+  * https://www.linkedin.com/in/erikkline/
+URL(s) for other resources (e.g., GitHub):
+  * https://github.com/ekline/ekline
+
+==================================================================
+
+Area Director Position
+
+Please explain your understanding of the role, its responsibilities, and
+its associated workload.
+
+------------------------------------------------------------------
+
+As INT AD, the role mostly consists of reviewing documents in the area
+(especially in the working groups for which the AD is responsible),
+shepherding them through IETF Last Call and IESG telechat review, and through
+the final stages with the RFC Editor. Fostering new work in the area is also
+important, which usually means reviewing proposals (written and verbal) and
+charting possible next steps.
+
+Outside of INT there is general coordination with other areas and working
+groups to review and resolve any issues arising from intersecting concerns.
+This includes dispute review and resolution (if possible).  Additionally,
+the INT layer can have many interactions with other SDOs (e.g. "lower layers"
+used to provide Internet access like 3GPP and IEEE, but sometimes other
+organizations like the W3C).
+
+ADs, as members of the IESG, participate in additional functions like
+conflict reviews, BoF reviews, and several other activities in service to
+the community.
+
+The workload is mostly reading 200-400 pages of text every two weeks.  The
+really time-consuming parts are: technical dispute resolution (especially
+appeals), coordination with non-IETF groups, and trying to deal with soft
+skill things in the hope of making the IETF perceived as decreasingly toxic.
+
+==================================================================
+
+Your Area
+
+Please provide your thoughts/perspective on the state of the area for
+which you were nominated. What would you hope to accomplish as AD and
+how? How would your skills and experience complement those of your
+fellow AD(s)? If you are an incumbent, please include your assessment of
+your performance here.
+
+------------------------------------------------------------------
+
+The INT area is a mix of (a) general quiet, I think reflecting some overall
+maturity at this layer, (b) some fixes and extensions to keep things moving
+forward, and (c) repetition of discussions that have failed to gather
+consensus sufficient to see the issue not brought up again.
+
+Some of the long-standing disagreements have had slowly refined arguments
+and every once in a while a minor breakthrough might be made.  The main
+goal here as an AD has been to maintain a civil process and not try to
+drive parties to any conclusions (these disagreements are sometimes
+doctrinal in nature).
+
+I have generally tried to remain silent on some of the more vocal discussions
+until explicitly called upon.  When responding, I've found myself drafting
+text as if it were to be attacked by a horde of language lawyers.  Trying to
+get wording just right has made me extremely slow to respond some times.
+
+I think there could be more support for some newer work or some thinking
+that's a bit outside the norm if authors and working groups would lean more
+heavily on Experimental as a document status.  This is something I have
+mentioned a few times but could probably be more proactive about raising.
+
+==================================================================
+
+Experience
+
+Describe any relevant management experience. Describe any technical
+experience relevant to the area for which you are nominated.
+
+------------------------------------------------------------------
+
+I would refer the committee to the Experience sections from my applications
+for the 2020-2022 term:
+
+  * https://github.com/ekline/ekline/blob/main/ietf_iesg_int_ad_2020_application.txt
+
+and the 2022-2024 term:
+
+  * https://github.com/ekline/ekline/blob/main/ietf_iesg_int_ad_2022_application.txt
+
+==================================================================
+
+Participation, Diversity, and Mentoring
+
+Describe your perspective on what diversity should mean for the IETF, and
+the degree to which existing IETF participation meets those
+expectations. What have you done in the past to encourage participation
+by those who might otherwise not have considered engaging with the IETF?
+
+------------------------------------------------------------------
+
+Broadly, I think diversity for the IETF means that the community should
+reflect a technically capable sample of all who might use the Internet
+(i.e., everyone).  Not all ideas are of equal merit, but anyone wishing
+"to make the Internet work better" should feel welcome to participate.
+
+After four years on the IESG, observing some of the behavior on mailing
+lists (and sometimes having to coordinate and communicate a public response
+to some behavior), I think the most important thing to focus on first is to
+not allow "loud men talking loudly" [LOUD] to use their "loudness" as a means
+to shut down other voices.  It is important to tread carefully, though, but
+the non-public response suggests there is often more support than might
+otherwise be visible.  I suspect that focusing on "tending the garden" will
+allow space to foster "new growth".  And, of course, I need to remember to
+not be one those "talking loudly" myself.
+
+[LOUD] https://criticalinfralab.net/wp-content/uploads/2023/06/LoudMen-CorinneCath-CriticalInfraLab.pdf
+
+==================================================================
+
+IETF
+
+What should the IETF do to make the Internet better? What would you do to
+facilitate that? How will you encourage new work and talent coming into
+the IETF?
+
+------------------------------------------------------------------
+
+Much of what should be done to make the Internet work better amounts to
+staying the course, e.g. continue to authenticate and encrypt "all the
+things" traffic, advance federated identity efforts, improve protocols
+for permissionless network extension, etc.
+
+But we shouldn't overlook the impact that increasing diversity (see above)
+is likely to have on the IETF's ability to improve the Internet for all
+users, current and future.  Aiming to keep one open and unfragmented Internet
+growing in scale, is going to require a broad collection of perspectives.
+
+At this point, my own focus on this is to try to make new folks feel welcome
+and help frame proposed work in such a was that it can get review and
+feedback from the most relevant subgroups in the community.
+
+==================================================================
+
+Why do you think NomCom should select you for this role?
+
+------------------------------------------------------------------
+
+The NomCom should probably choose from other candidates, if such selection
+works out. I'm willing to serve a 3rd term but in general would prefer to
+get back to being an individual contributor.
+
+==================================================================
+
+Additional Information
+
+If there is any additional information you wish to share with the
+Nominating Committee and the confirming body (the IAB), please
+put it here.
+
+------------------------------------------------------------------
+
+I think a 3rd term would likely involve me employing some time-saving tactics
+like reducing document reviews to focusing mostly on INT-area impact rather
+than attempting more thorough readings.
+
+==============================================================
+
+NOT FOR CONFIRMING BODY
+
+Additional Information - For NomCom Only
+
+If there is there any additional information you wish to share with the
+Nominating Committee that will NOT be shared with the confirming body
+(the IAB), please put it here. This may include any of: personal
+identifying information, include additional details about employment or
+work time issues, opinions or comments on individuals on the various
+bodies involved in leading the IETF activities, opinions about the
+direction of working groups, areas, or leadership bodies, and the
+like. These comments may also include elaborations on any of your above
+answers, if there are further aspects you would like to mention that you
+do not want shared outside of NomCom.
+
+------------------------------------------------------------------
+
+N/A
+
+END OF SECTION: NOT FOR CONFIRMING BODY
+
+==============================================================
+
