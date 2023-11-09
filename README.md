@@ -28,6 +28,7 @@ Currently:
 
 Publications:
   * "[Evaluating IPv6 adoption in the Internet](https://research.google/pubs/pub36240/)" (2010)
+  * "[A Format for Self-Published IP Geolocation Feeds](https://www.rfc-editor.org/rfc/rfc8805.html)", [RFC 8805](https://www.rfc-editor.org/rfc/rfc8805.html) (2020)
   * "[SDN in the Stratosphere: Loon's Aerospace Mesh Network](https://research.google/pubs/pub51572/)" (2022)
 
 Other work:
