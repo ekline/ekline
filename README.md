@@ -25,6 +25,7 @@ Currently:
   * IETF Internet Area Director (INT AD, IESG)
     * 2020-2022 [application](./ietf_iesg_int_ad_2020_application.txt) | [announcement](https://mailarchive.ietf.org/arch/msg/ietf/9fub54oprwn0Pb6qFRbIJevgo_E/)
     * 2022-2024 [application](./ietf_iesg_int_ad_2022_application.txt) | [announcement](https://mailarchive.ietf.org/arch/msg/ietf/O7f082ROaB2DudULnEzVMuUbbEY/)
+    * 2024-2026 [application](./ietf_iesg_int_ad_2024_application.txt) | [announcement](https://mailarchive.ietf.org/arch/msg/ietf-announce/LTMrnWkbxXT6pD2j95yFkPVc7-8/)
 
 Publications:
   * "[Evaluating IPv6 adoption in the Internet](https://research.google/pubs/pub36240/)" (2010)
